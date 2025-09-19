@@ -1,5 +1,0 @@
-aiohttp==3.11.9
-py1337x
-beautifulsoup4
-lxml
-loguru==0.7.2
